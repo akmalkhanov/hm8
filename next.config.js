@@ -1,4 +1,8 @@
+// @ts-check
+ 
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+const nextConfig = {
+  /* config options here */
+}
+ 
+Module.exports = nextConfig
